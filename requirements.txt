@@ -1,0 +1,8 @@
+faster-whisper
+llama-cpp-python
+numpy
+PyAudio
+scipy
+soundfile
+torch
+wave
